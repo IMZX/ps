@@ -7,8 +7,6 @@ body{
 	text-align:center;
 } 
 .pc{
-        display:table-cell;
-	text-align:center;
-	vertical-align:middle;
+       margin:0 auto;
 	
 }
