@@ -13,7 +13,7 @@ body{
 
 .img{
   background: url("../download/DELENA.jpg");
-  background-size: 100% auto;
+  background-size: auto auto;
   height: auto;
   position: fixed;
   width: 100%;
